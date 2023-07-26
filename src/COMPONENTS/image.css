@@ -1,0 +1,10 @@
+.class1{
+   animation: imgUp 0.7s linear infinite alternate;
+   height: '40px';
+   width: 'fit-content';
+}
+@keyframes imgUp{
+    to{
+        transform: translateY(-10px);
+    }
+}
