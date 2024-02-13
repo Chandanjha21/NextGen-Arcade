@@ -15,18 +15,13 @@ const Services = () => {
     <div className="image1">
       <Image borderRadius={'full'} height={'30vh'} w={['100vw','30vw']} margin={'2'}  p={'2'} src={img1} />
       </div>
-    <Text m={['1','10']} py={['1','10vh']} px={['2','10']} w={'fit-content'} >Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-       Vero, corporis quisquam voluptatibus modi consequuntur adipisci accusantium
-        minus itaque porro nesciunt ratione exercitationem tenetur 
-      cumque perferendis nostrum sint odio sit animi? 
+    <Text m={['1','10']} py={['1','10vh']} px={['2','10']} w={'fit-content'} >Seamless Video Uploads: Effortlessly share your gaming adventures and futuristic insights with our user-friendly platform. Upload videos in a snap, ensuring your content reaches a global audience.
       </Text>
      </Stack>
 
      <Stack  direction={['column','row']} h={['100vh','30vh' ]} >
       <Text m={['1','10']}  py={['1','8vh']} px={['2','10']} w={'fit-content'}>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur eius iure veritatis,
-         ex accusamus inventore! Doloremque nulla eveniet molestias praesentium id nostrum in adipisci, aperiam,
-         fugiat inventore reiciendis sunt sed?
+      Immersive Gaming Community: Dive into a vibrant community where gamers and future enthusiasts converge. Engage in discussions, share tips, and discover the latest in gaming and futuristic technologies.
       </Text>
       <Box>
         <Image src={img2} borderRadius={'full'} height={'30vh'} w={['100vw','30vw']} margin={'2'} p={'2'} />
@@ -37,18 +32,13 @@ const Services = () => {
     <div className="image1">
       <Image borderRadius={'full'} height={'30vh'} w={['100vw','30vw']} margin={'2'}  p={'2'} src={img1} />
       </div>
-    <Text m={['1','10']} py={['1','10vh']} px={['2','10']} w={'fit-content'} >Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-       Vero, corporis quisquam voluptatibus modi consequuntur adipisci accusantium
-        minus itaque porro nesciunt ratione exercitationem tenetur 
-      cumque perferendis nostrum sint odio sit animi? 
+    <Text m={['1','10']} py={['1','10vh']} px={['2','10']} w={'fit-content'} >Cutting-edge Content Curation: Experience curated playlists that showcase the best in future tech and gaming. Our algorithm ensures you're always up-to-date with the most exciting and relevant videos in the ever-evolving world of entertainment.
       </Text>
      </Stack>
 
      <Stack  direction={['column','row']} h={['100vh','30vh' ]} >
       <Text m={['1','10']}  py={['1','8vh']} px={['2','10']} w={'fit-content'}>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur eius iure veritatis,
-         ex accusamus inventore! Doloremque nulla eveniet molestias praesentium id nostrum in adipisci, aperiam,
-         fugiat inventore reiciendis sunt sed?
+      Interactive Live Streaming: Take your gaming sessions to the next level with our live streaming feature. Connect with your audience in real-time, share your strategies, and build a community around your passion for gaming and the future.
       </Text>
       <Box>
         <Image src={img2} borderRadius={'full'} height={'30vh'} w={['100vw','30vw']} margin={'2'} p={'2'} />

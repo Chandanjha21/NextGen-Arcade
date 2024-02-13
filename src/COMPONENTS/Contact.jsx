@@ -1,11 +1,11 @@
 import React from 'react'
-import { Button, Container, Heading, Input, VStack, color } from '@chakra-ui/react';
+import { Button, Container, Heading, Input, VStack} from '@chakra-ui/react';
 import { Link } from 'react-router-dom';
 
 const Contact = () => {
   return (<>
       <Heading textAlign={'center'} m={'5px'} >Contact Us</Heading>
-      <Container maxW={'container.xl'} h={'100vh'} >
+      <Container maxW={'container.xl'} h={'90vh'} >
         <VStack alignItems={'center'} m={'auto'} py={'20'} >
         <p>You can approach us through E-mail at {' '} <Button variant={'link'}><Link to={'www.Gmail.com'}>G-Mail</Link></Button> 
          

@@ -74,17 +74,7 @@ const Home = () => {
         <Image className='class1' src={img5} filter={'hue-rotate(-130deg)'} />
         </Box>
          <Text interSpacing='Widest' lineSpacing='190%' p={['4','16']} >
-         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-         Quidem quasi officia cupiditate, voluptas corporis officiis eos,
-         impedit asperiores reiciendis minima blanditiis id rem nisi deserunt.
-         Non repudiandae perspiciatis omnis blanditiis.
-         Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni odit veniam, 
-         atque dolorem maxime ducimus temporibus alias quis quod minus hic laudantium reprehenderit, 
-         sit voluptate soluta esse voluptas repellendus. Minus.
-         Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-          Saepe voluptatem corporis placeat, iure quae quas.
-           Qui quae magni enim deleniti natus id quis 
-         suscipit veritatis adipisci error? Repudiandae, eos ut.
+         Welcome to NextGen Arcade, your ultimate destination for a futuristic gaming experience! Immerse yourself in a cutting-edge platform where users can seamlessly upload and share captivating videos that delve into the realms of both the future and gaming. Our hub is a haven for tech enthusiasts, gamers, and visionaries alike, offering a diverse collection of content that explores the latest trends, innovations, and thrilling gameplay. Whether you're fascinated by futuristic technologies or passionate about the gaming universe, React Video Hub is the go-to space for discovering, sharing, and connecting with like-minded individuals. Join us on this exhilarating journey as we redefine the boundaries of digital entertainment, providing a unique and dynamic space for the community to shape the future of video content.
           
          </Text>
 

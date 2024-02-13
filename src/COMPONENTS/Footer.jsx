@@ -19,7 +19,7 @@ const Footer = () => {
          </HStack>
          </VStack>  
          <VStack alignItems={"stretch"} w={"full"} px={'4'} textAlign={"center"}>
-            <Heading colorScheme={"white"}>Zeth Media</Heading>
+            <Heading colorScheme={"white"}>NextGen Arcade</Heading>
             <p>All rights reserved</p>
             
          </VStack>      
